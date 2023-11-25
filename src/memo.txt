@@ -1,0 +1,3 @@
+Crtl + Shift + T : Test Class 생성
+Crtl + AlT + M : 메서드 생성
+Crtl + E : 최근 기록 파일

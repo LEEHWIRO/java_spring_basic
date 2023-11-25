@@ -10,5 +10,5 @@ public interface DiscountPolicy {
      * @param price
      * @return 할인 대상 금액
      */
-    int dicount(Member member, int price);
+    int discount(Member member, int price);
 }
